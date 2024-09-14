@@ -1,7 +1,3 @@
-Aqui está o `README.md` atualizado com explicações sobre o que é o Vue.js e o que é reatividade, mantendo o formato para iniciantes:
-
----
-
 # **Tutorial Completo Vue.js 3 para Iniciantes**
 
 Este tutorial cobre o básico do Vue.js 3, desde a criação de um projeto até a navegação entre páginas, reatividade, hooks e mais.
@@ -364,7 +360,3 @@ Neste tutorial, você aprendeu:
 - Passar props e remover reatividade
 
 Próximos passos: explore autenticação, gerenciamento de estado com Vuex, e faça o deploy da sua aplicação Vue.js.
-
----
-
-Esse arquivo `README.md` agora oferece uma introdução sobre Vue.js e reatividade, cobrindo todos os tópicos solicitados para iniciantes.
