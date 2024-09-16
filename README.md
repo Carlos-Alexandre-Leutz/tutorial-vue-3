@@ -197,6 +197,13 @@ Filho:
 <p v-else>Este texto será mostrado se a condição for falsa.</p>
 ```
 
+### **Class condicional **
+
+```html
+<p :class="true ? 'color' : '' ">Este texto será mostrado com uma cor.</p>
+<p :style="true ? ' width: 6px;' : 'width: 10px;'>Este texto será mostrado tamanho diferente.</p>
+```
+
 ---
 
 ## **8. Hooks no Vue.js 3**
